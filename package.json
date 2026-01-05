@@ -1,0 +1,17 @@
+{
+  "name": "crypto-prices",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.25",
+    "@types/node": "^20.19.27",
+    "typescript": "^5.9.3"
+  }
+}
